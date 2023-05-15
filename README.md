@@ -1,5 +1,9 @@
 # How to Add Cookie in DotDotPwn
 
+Video tutorial
+
+[![Watch the video](https://img.youtube.com/vi/83wNHL6K5z0/maxresdefault.jpg)](https://youtu.be/83wNHL6K5z0)
+
 ## Prerequisites
 
 - Have downloaded DotDotPwn
